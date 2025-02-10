@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="title"> Lunar BS | Strona Główna </title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body id="body">
+
+<script src="indexopen.js"></script>
+
+
+    <div id="container" style="background-color: #222222;">
+
+        <header id="header">
+
+            <h1 style="color: whitesmoke; float: left;"> Lunar </h1> <h1 style="color: orangered; float: left;"> BS </h1>
+
+        </header>
+
+        <nav id="navigation">
+
+        <table>
+            <tr>    
+
+            <td id="1">
+                <a href="about.html"> O Nas </a>
+            </td>
+
+            <td id="2">
+                <a href="squad.html"> Drużyna </a>
+            </td>
+
+            <td id="3"> 
+                <a href="chat.php"> Anonimowy Chat </a>
+            </td>
+
+            <td id="4">
+                <a href="contact.html"> Kontakt </a>
+            </td>
+        
+            </tr>
+        </table>
+
+        </nav>
+
+        <h1 style="font-size: 100px; text-align: center; margin-top:700px;"> Witaj na stronie! Na razie nic tu nie ma! </h1>
+
+    </div>
+    
+</body>
+</html>
